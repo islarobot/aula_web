@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cotxes>
+  <marca nom= "BMW" numero= "3">
+    <cotxe assegurado="S">
+      <matricula>IBX3882</matricula>
+      <matriculacio>2018</matriculacio>
+      <estat>Bon estat</estat>
+    </cotxe>
+    <cotxe assegurado="S">
+      <matricula>XGP1828</matricula>
+      <matriculacio>2019</matriculacio>
+      <estat>Bon estat</estat>
+    </cotxe>
+    <cotxe assegurado="S">
+      <matricula>GGH3440</matricula>
+      <matriculacio>2018</matriculacio>
+      <estat>Bon estat</estat>
+    </cotxe>
+  </marca>
+  <marca nom="Citroën" numero= "2">
+    <cotxe assegurado="S">
+      <matricula>XPX2878</matricula>
+      <matriculacio>2017</matriculacio>
+      <estat>Bon estat</estat>
+    </cotxe>
+    <cotxe assegurado="N">
+      <matricula>TXE2838</matricula>
+      <matriculacio>2017</matriculacio>
+      <estat>Estat deficient</estat>
+    </cotxe>
+  </marca>
+  <marca nom= "Peugeot" numero= "0"></marca>
+  <marca nom= "Dacia" numero= "1">
+    <cotxe assegurado="S">
+      <matricula>RZP3993</matricula>
+      <matriculacio>2018</matriculacio>
+      <estat>Bon estat</estat>
+    </cotxe>
+  </marca>
+  <total>6</total>
+</cotxes>

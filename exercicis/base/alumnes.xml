@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alumnes>
+    <alumne>
+        <nom>toni</nom>
+        <llinatge>aloy</llinatge>
+        <edat>18</edat>
+    </alumne>
+    <alumne>
+        <nom>Pere</nom>
+        <llinatge>Arrom</llinatge>
+        <edat>20</edat>
+    </alumne>
+    <alumne>
+        <nom>Joana</nom>
+        <llinatge>Frau</llinatge>
+        <edat>16</edat>
+    </alumne>
+</alumnes>
